@@ -1,7 +1,7 @@
 # Sales Data Analytics Project
 
 ## Overview
-This project focuses on analyzing sales performance using Python, SQL, and Excel.
+This project focuses on analyzing sales performance using Python. 
 The project helps businesses understand revenue, profit, customer behavior,
 regional performance, and product category trends.
 
